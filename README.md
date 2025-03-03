@@ -54,7 +54,7 @@ Below are the libraries and modules used in this notebook along with their offic
 
 ## 👩‍💻 Author
 
-**Your Name**  
+**Shilajit Rath**  
 🎓 MSc in Mathematics with a focus on Data Science  
 
 ---
