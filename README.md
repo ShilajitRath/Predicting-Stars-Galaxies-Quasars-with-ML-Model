@@ -1,4 +1,4 @@
-# 🌌 Predicting Stars, Galaxies & Quasars with ML Model 🚀
+# Predicting Stars, Galaxies & Quasars with ML Model 🚀
 
 ## 🔄 Workflow of this Notebook
 
